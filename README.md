@@ -1,4 +1,4 @@
-# Unihan Definitions Bug Report
+# Unihan Definitions Error Report
 
     # Unihan_Readings.txt
     # Date: 2018-11-09 21:36:19 GMT [JHJ]
@@ -160,7 +160,7 @@ Typos in field `kDefinition`:
 | U+9CA2 | 鲢 | kDefinition | hypophthalmiathys | hypophthalmichthys
 | U+9E0A | 鸊 | kDefinition | ruficolus | ruficollis
 | U+9F2C | 鼬 | kDefinition | itatis | itatsi
-| U+F9C8 | 杻 | kDefinition | sinenese | sinense
+| U+F9C8 | 杻 | kDefinition | sinenese | sinense
 | U+20E7A | 𠹺 | kDefinition | comletion | completion
 | U+22605 | 𢘅 | kDefinition | arbitrariliy | arbitrarily
 | U+22C55 | 𢱕 | kDefinition | poud | pound
